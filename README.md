@@ -1,4 +1,4 @@
-# Введение в аэрокосмическую технику, 7 семестр
+# Введение в авиационную и ракетно-космическую технику, 7 семестр
 ## Ссылка на Research Doc:
 https://docs.google.com/document/d/1q5aOQsepLWNT8Ztcn_kXfUW1H0SY_sI8EJ_TaykdGGs/edit?usp=share_link
 
